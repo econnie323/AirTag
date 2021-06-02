@@ -1,2 +1,2 @@
 # AirTag
-Add deepsleep for 9 munutes and active for 1 munute.
+Add deepsleep for 9 minutes and active for 1 minute.
